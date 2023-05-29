@@ -1,2 +1,21 @@
-# nikson
-this is log in site
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="reset.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title></title>
+</head>
+<body>      
+     
+    <div class="mshobeli">
+    <div class="container">
+        <a href="#"><center><i><h1>log in</h1></i></center></a>
+    <input type="text" placeholder="email or phone">
+    <input type="password" placeholder="password">
+   </div>
+    </div>
+</body>
+</html>
